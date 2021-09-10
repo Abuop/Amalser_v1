@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Amalser](<img src=https://www.linkpicture.com/q/20210830_193351_compress73.png>
+  [![ABU SIR](<img src=https://www.linkpicture.com/q/20210830_193351_compress73.png>
  https://github.com/ARAKKAL_ABUv1  |  
 ----|
 [Its_me_ABU](https://github.com/ARAKKAL_ABUv1)  |
