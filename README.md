@@ -1,9 +1,9 @@
 <div align="center">
 
-## Its_me_Amal 
+## Its_me_ABU
 
 <div align="center">
-  <img src=https://www.linkpicture.com/q/IMG-20210819-WA1189.jpg>
+  <img src="https://www.linkpicture.com/view.php?img=LPic613af2d163ede2074378019"><img src="https://www.linkpicture.com/q/20210830_193351_compress73.png" type="image"></a>>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
@@ -31,7 +31,7 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
-### Its_me_Amal
+### Its_me_ABU
 
 
 ### ⚠️ Warning! 
@@ -46,9 +46,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![Amalser](<img src=https://www.linkpicture.com/q/20210830_193351_compress73.png>
- https://github.com/Amalser_v1 |  
+ https://github.com/ARAKKAL_ABUv1  |  
 ----|
-[Its_me_Amal](https://github.com/Amalser_v1)  |
+[Its_me_ABU](https://github.com/ARAKKAL_ABUv1)  |
 Base, Bug Fixes, Modules | 
   
     
